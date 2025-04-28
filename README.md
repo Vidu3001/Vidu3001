@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vidu3001
-- 👀 I’m interested in UI/UX Design, Web Design and Information Security
-- 🌱 I’m currently learning Computer Science
+- 👀 I’m interested in Data Analysis and Information Security
+- 🌱 I’m a graduated student
 - 💞️ I’m looking to collaborate on a team where I can gain experience under my interests
 - 📫 How to reach me ...
 
